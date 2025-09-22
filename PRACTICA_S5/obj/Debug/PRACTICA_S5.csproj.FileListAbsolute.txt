@@ -1,0 +1,8 @@
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\bin\Debug\PRACTICA_S5.exe.config
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\bin\Debug\PRACTICA_S5.exe
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\bin\Debug\PRACTICA_S5.pdb
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\obj\Debug\PRACTICA_S5.csproj.AssemblyReference.cache
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\obj\Debug\PRACTICA_S5.csproj.CoreCompileInputs.cache
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\obj\Debug\PRACTICA_S5.exe
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\obj\Debug\PRACTICA_S5.pdb
+C:\Users\Pablin UPN\OneDrive - Universidad Privada del Norte\Documentos\UPN\Ejercicios fundamentos_2do ciclo\PRÁCTICA_S5\PRACTICA_S5\obj\Debug\PRACTICA_S5.exe.config
